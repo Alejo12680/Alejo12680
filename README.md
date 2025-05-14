@@ -12,13 +12,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Alejo12680&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejo12680&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Alejo12680&theme=one_dark_pro&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alejo12680&limit=5&theme=react&combine_all_yearly_contributions=true)
+### 🎢 Summary Repo
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alejo12680&theme=react&combine)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alejo12680&icon=6&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
