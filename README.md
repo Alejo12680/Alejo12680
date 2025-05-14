@@ -1,3 +1,7 @@
+<!-- [![MasterHead](https://brilliancesecuritymagazine.com/wp-content/uploads/2024/02/Encryption4-1170x250.jpeg)](https://github.com/Alejo12680) -->
+<h1 align="center">Hi 👋, I'm Alejandro Ramirez</h1>
+<h3 align="center">A passionate about development</h3>
+
 # 💫 About Me:
 🔭 I’m currently working as a full stack developer<br>👯 I’m looking to collaborate on a frontend project such as Angular.<br>🤝 I'm looking for help with Android Studio Java<br>🌱 I’m currently learning Java<br>💬 I am a full stack developer and also a graphic designer, and I love learning and working on team projects.<br>⚡ Fun fact, The origin of the word "robot" comes from the Czech word "rabota", which means heavy work.
 
